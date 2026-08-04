@@ -18,3 +18,17 @@
 | **Control & Embedded Systems** | LabVIEW, NI myRIO, Conveyor Actuators |
 | **Cloud & Web Dashboard** | AWS Console, Web Frameworks |
 | **Simulation & Platforms** | Unity Hub |
+
+## 📷 System Demonstration & Hardware Setup
+
+<p align="center">
+  <img src="documentations/VID-20260716-WA0074.jpg" alt="System Setup" width="700"/>
+  <br>
+  <em>Figure 1: Testing the conveyor belt device integrated with a camera (YOLO), sensors, and a UI.</em>
+</p>
+
+### 🎥 Demonstration Video
+
+Click the image below to watch the full system demonstration on YouTube:
+
+[![System Demo]](https://drive.google.com/file/d/1A9ykroSneKphrMx7M0KVlN8d7EkPBY63/view?usp=drive_link)
