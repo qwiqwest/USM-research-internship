@@ -19,7 +19,7 @@
 | **Cloud & Web Dashboard** | AWS Console, Web Frameworks |
 | **Simulation & Platforms** | Unity Hub |
 
-## 📷 System Demonstration & Hardware Setup
+## 📷 System Demonstration
 
 <p align="center">
   <img src="documentations/VID-20260716-WA0074.jpg" alt="System Setup" width="700"/>
@@ -32,3 +32,19 @@
 Click the image below to watch the full system demonstration on YouTube:
 
 [![System Demo]](https://drive.google.com/file/d/1A9ykroSneKphrMx7M0KVlN8d7EkPBY63/view?usp=drive_link)
+
+## 📷 Hardware Setup
+
+<p align="center">
+  <img src="documentations/20260727_111648.jpg" alt="System Setup" width="700"/>
+  <br>
+  <em>Figure 2: Installing the system to Raspberry Pi 4.</em>
+</p>
+
+## 📷 Lab Team
+
+<p align="center">
+  <img src="documentations/IMG-20260727-WA0133.jpg" alt="System Setup" width="700"/>
+  <br>
+  <em>Figure 3: The team at Makers LAB.</em>
+</p>
